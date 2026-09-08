@@ -252,14 +252,7 @@ In 5–6 sentences, discussed:
 
 ---
 
-## Files in This Repository
-
-- `NLP_HW_1.ipynb` – Main Colab notebook with all solutions and outputs  
-- `README.md` – This file, explaining the work and providing student info  
-
----
-
-## Notes for Instructor
+## Notes
  
 - The notebook was developed and tested in Google Colab.  
  
